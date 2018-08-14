@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/planetsFragment"
+            android:icon="@drawable/menu_planet"
+            android:title="@string/main_menu_planets" />
+        <item
+            android:id="@+id/animalsFragment"
+            android:icon="@drawable/menu_animal"
+            android:title="@string/main_menu_animals" />
+        <item
+            android:id="@+id/currenciesFragment"
+            android:icon="@drawable/menu_currency"
+            android:title="@string/main_menu_currencies" />
+        <item
+            android:id="@+id/devilFragment"
+            android:icon="@drawable/menu_devil"
+            android:title="@string/main_menu_devil" />
+
+    </group>
+
+
+</menu>

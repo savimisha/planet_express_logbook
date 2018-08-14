@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/welcomeFragment">
+
+    <fragment
+        android:id="@+id/welcomeFragment"
+        android:name="pro.savichev.planetexpress.logbook.ui.welcome.WelcomeFragment"
+        android:label="WelcomeFragment" >
+    </fragment>
+    <fragment
+        android:id="@+id/planetsFragment"
+        android:name="pro.savichev.planetexpress.logbook.ui.planets.PlanetsFragment"
+        android:label="PlanetsFragment" >
+    </fragment>
+    <fragment
+        android:id="@+id/animalsFragment"
+        android:name="pro.savichev.planetexpress.logbook.ui.animals.AnimalsFragment"
+        android:label="AnimalsFragment" />
+    <fragment
+        android:id="@+id/currenciesFragment"
+        android:name="pro.savichev.planetexpress.logbook.ui.currency.CurrenciesFragment"
+        android:label="CurrenciesFragment" />
+    <fragment
+        android:id="@+id/devilFragment"
+        android:name="pro.savichev.planetexpress.logbook.ui.devil.DevilFragment"
+        android:label="DevilFragment" />
+</navigation>

@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Logbook</string>
+    <string name="planet_express">Planet Express</string>
+    <string name="logbook">Бортовой журнал</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Planet Express</string>
+    <string name="nav_header_subtitle">Бортовой журнал</string>
+    <string name="main_menu_planets">Планеты</string>
+    <string name="main_menu_animals">Обитатели</string>
+    <string name="main_menu_currencies">Используемые валюты</string>
+    <string name="main_menu_devil">Робо-дьявол</string>
+    <string name="welcome_first_text">Добро пожаловать в бортовой журнал корабля Planet Express!</string>
+    <string name="welcome_second_text">Здесь находятся записки экипажа о посещенных местах, их обитателях и прочая интересная информация.</string>
+    <string name="planet_image_description">Planet</string>
+    <string name="animal_image_description">Animal</string>
+    <string name="currency_image_description">Currency</string>
+
+    <string name="color_text">Цвет</string>
+    <string name="composition_text">Состав</string>
+    <string name="form_text">Форма</string>
+    <string name="description_text">Описание</string>
+
+    <string name="planet_white_name">Облачное пятно</string>
+    <string name="planet_red_name">Слоистый гриб</string>
+    <string name="planet_blue_name">Круглый клык</string>
+    <string name="planet_blue1_name">Заваленная неваляшка</string>
+    <string name="planet_black_name">Беспросветная чернь</string>
+    <string name="planet_purple_name">Точечная полосатость №497</string>
+    <string name="planet_yellow_name">Смайловая пара</string>
+    <string name="planet_pink_name">Стекающая жижа</string>
+    <string name="planet_green_name">Огуречный танец</string>
+    <string name="planet_orange_name">Пупырные бугры</string>
+
+    <string name="planet_white_color">Белый</string>
+    <string name="planet_red_color">Красный</string>
+    <string name="planet_blue_color">Синий</string>
+    <string name="planet_blue1_color">Голубой</string>
+    <string name="planet_black_color">Черный</string>
+    <string name="planet_purple_color">Фиолетовый</string>
+    <string name="planet_yellow_color">Желтый</string>
+    <string name="planet_pink_color">Розовый</string>
+    <string name="planet_green_color">Зеленый</string>
+    <string name="planet_orange_color">Оранжевый</string>
+
+    <string name="planet_white_composition">50% Углерод, 50% Фтор</string>
+    <string name="planet_red_composition">65% шоколад, 35% мармелад</string>
+    <string name="planet_blue_composition">100% металл</string>
+    <string name="planet_blue1_composition">33% варенье, 33% опилки, 33% туман</string>
+    <string name="planet_black_composition">80% пластик, 20% ртуть</string>
+    <string name="planet_purple_composition">40% стекло, 60% бумага</string>
+    <string name="planet_yellow_composition">100% дерево</string>
+    <string name="planet_pink_composition">30% тина, 70% жвачка</string>
+    <string name="planet_green_composition">20% киви, 40% огурец, 40% сено</string>
+    <string name="planet_orange_composition">50% мука, 50% молоко</string>
+
+    <string name="planet_white_form">Клякса</string>
+    <string name="planet_red_form">Гриб</string>
+    <string name="planet_blue_form">Комок</string>
+    <string name="planet_blue1_form">Восьмерка</string>
+    <string name="planet_black_form">Почти идеальный шар</string>
+    <string name="planet_purple_form">Неопознанная</string>
+    <string name="planet_yellow_form">Два комка на веревочке</string>
+    <string name="planet_pink_form">Шарик мороженного в жару</string>
+    <string name="planet_green_form">Атом</string>
+    <string name="planet_orange_form">Неровный колобок</string>
+
+    <string name="planet_white_description">Не пригодна для жизни. Увидеть эту планету непросто. Она прячется в туманности Козлорога. И только когда Солнцеподобная звезда перестает светить, в полнейшей темноте, при включенных фиолетовых фарах на корабле, можно эту планету найти. Она начинает светиться бело&#8211;желтоватым свечением.</string>
+    <string name="planet_red_description">Планета пригодна для жизни. Живут обитатели в средних слоях «шляпки», т.к. они любят быть повыше, но не совсем. Все это из&#8211;за ядовитой атмосферы, которая не дает поселиться на вершинах гор.</string>
+    <string name="planet_blue_description">Планета пригодна для жизни. Все обитатели любят хэви&#8211;металл и поэтому планета стала центром вселенной для фестивалей жесткой музыки.</string>
+    <string name="planet_blue1_description">Планета пригодна для жизни. Изначально была Незаваленной Неваляшкой, но обитатели решили поселиться на верхнем шаре и левее – климат там теплее. Из&#8211;за этого горизонт Неваляшки потерпел изменения.</string>
+    <string name="planet_black_description">Поверхность ровная, гладкая, скользкая, не предназначена для жизни. Все, кто пытался поселиться на шаре, скатывались в космос. Единственное место, где можно удержаться – это ртутное белое озеро. В нем живет лишь одна сумасшедшая рыба.</string>
+    <string name="planet_purple_description">Таких планет достаточно много. Различаются лишь цветом. К жизни пригодна. Обитатели располагаются в полосатой части планеты. И раз в половину светового года перезжают с одной полоски на другую.</string>
+    <string name="planet_yellow_description">Парная планета. Пригодна для жизни. Но все обитатели также поделены на половины и связаны длинной веревкой.</string>
+    <string name="planet_pink_description">Планета не пригодна для жизни. Мало изучена, т.к. при приземлении корабль увязает, как в болоте. Но запах от планеты прекрасен, поэтому в 10 метрах от нее часто зависают круизные корабли, чтобы пассажиры наладились сладковатым ароматом.</string>
+    <string name="planet_green_description">Планета пригодна для жизни, но живут там только смелые обитатели. И новым жильцам не рады. Как только кто&#8211;нибудь приземляется на планету, она приходит в движение, планета слишком подвижна.</string>
+    <string name="planet_orange_description">Съедобная планета. Окружена поясом космических крошек. Несмотря на неровную форму планеты, эти крошки располагаются на расстоянии 5 метров от планеты. Планета занесена в Серую Вселенскую книгу как вымирающий вид, слишком много охотников откусить от планеты частичку.</string>
+
+
+    <string name="currency_1_name">Африконская лемпира</string>
+    <string name="currency_2_name">Вергонский динар</string>
+    <string name="currency_3_name">Метанский бат</string>
+    <string name="currency_4_name">Марсианская вона</string>
+    <string name="currency_5_name">Нептунский шиллинг</string>
+    <string name="currency_6_name">Омикронский франк</string>
+    <string name="currency_7_name">Сэронский фунт</string>
+    <string name="currency_8_name">Чапекская иена</string>
+    <string name="currency_9_name">Червелонское песо</string>
+    <string name="currency_10_name">Трисольская лира</string>
+    <string name="currency_11_name">Энтерниумская крона</string>
+    <string name="currency_12_name">Земной доллар</string>
+
+    <string name="devil_description">Был очень властным и хотел захватить Робогород-2 руками своих приспешников. Любил выпить, однажды под влиянием алкоголя придумал новую систему мер:</string>
+
+    <string name="devil_metrics">Чува = 1&#8211;2 метров\nЛупак = 2&#8211;3 метров\nМимеф = 4&#8211;5 метров\nШлифт = 10&#8211;20 метров\nСарик = 20&#8211;30 метров\nДорик = 20&#8211;40 метров\nНилум = 50&#8211;53 метров\nЯбрук = 55&#8211;65 метров\nПирон = 85&#8211;95 метров\nХвалп = 100&#8211;105 метров\nКойр = 140&#8211;160 метров\nЖмаст = 200&#8211;225 метров\nРудол = 300&#8211;500 метров\nГуччь = 500&#8211;700 метров\nОвлий = 1000&#8211;1200 метров</string>
+
+
+</resources>
